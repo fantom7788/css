@@ -1,0 +1,49 @@
+.dd{
+  border-radius: 25px;
+background-color: gold;
+text-align: center;
+}
+.ff{
+  color: rgb(18, 212, 99);
+}
+.ww{
+  color: red;
+}
+.ss{
+  color: yellow;
+}
+.rr{
+  color: darkgreen;
+}
+.qq{
+  color: dimgrey;
+}
+.Добро{
+  background-color: lightslategray;
+  border: solid red;
+  border-radius: 25px;
+  text-align: center;
+}
+.i{
+  background-color: green;
+}
+.p{
+  background-color: purple;
+}
+table{
+  text-align: center;
+}
+.trtr{
+  background-color: red;
+}
+.Полная{
+  background-color: yellow;
+  text-align: center;}
+  .mnmn{
+    list-style: none;
+  }
+
+  button{
+    background-color: yellowgreen;
+    border-radius: 2px;
+  }
